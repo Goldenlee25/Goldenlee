@@ -5,7 +5,7 @@ body {
     color: #e2e8f0;
 }
 
-/* HERO SECTION */
+/* HERO */
 
 .hero {
     text-align: center;
@@ -35,7 +35,7 @@ button {
     color: #22c55e;
     border-radius: 8px;
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.3s ease;
 }
 
 button:hover {
@@ -66,7 +66,7 @@ button:hover {
     padding: 30px;
     width: 250px;
     border-radius: 10px;
-    transition: 0.3s;
+    transition: 0.3s ease;
     text-align: center;
 }
 
